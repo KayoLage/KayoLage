@@ -17,13 +17,6 @@
 - 🎓 Graduando em **Ciência da Computação** na **UFV** (Universidade Federal de Viçosa)
 - 🔭 Meus interesses giram em torno de **IA, visão computacional, aprendizado de máquina e robótica**
 
-### 🧠 Áreas de atuação
-
-- 👁️ Visão Computacional
-- 🤖 Robótica
-- 🧬 Deep Learning
-- 📊 Aprendizado de Máquina
-
 ### 🛠️ Ferramentas e tecnologias
 
 | Área | Ferramentas |

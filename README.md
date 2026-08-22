@@ -24,7 +24,7 @@
 | Linguagens | Python, C++, C# |
 | Deep Learning | PyTorch |
 | Robótica / Visão | ROS 2, OpenCV, MediaPipe |
-| Simulação / 3D | Unity, Blender |
+| Simulação / 3D | Unity, Blender, Gazebo |
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />

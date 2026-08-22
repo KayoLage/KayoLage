@@ -21,7 +21,7 @@
 
 | Área | Ferramentas |
 |---|---|
-| Linguagens | Python, C++ |
+| Linguagens | Python, C++, C# |
 | Deep Learning | PyTorch |
 | Robótica / Visão | ROS 2, OpenCV, MediaPipe |
 | Simulação / 3D | Unity, Blender |

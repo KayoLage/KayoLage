@@ -42,6 +42,18 @@
   <img height="165" src="https://github-readme-stats-jet-chi-96.vercel.app/api/top-langs/?username=KayoLage&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KayoLage&theme=dark&hide_border=true&background=0d1117&stroke=8b5cf6&ring=6366f1&fire=8b5cf6" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KayoLage&theme=radical&no-frame=true&column=4&margin-w=10&margin-h=10" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KayoLage&color=8b5cf6&style=flat&label=Visualiza%C3%A7%C3%B5es" />
+</p>
+
 ### 📫 Contato
 - LinkedIn: [linkedin.com/in/kayo-lage-00a103237](https://www.linkedin.com/in/kayo-lage-00a103237/)
 - E-mail: melokayo2208@gmail.com

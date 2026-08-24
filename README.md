@@ -50,10 +50,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=KayoLage&theme=darkhub&no-frame=true&column=4&margin-w=10&margin-h=10" />
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KayoLage.KayoLage&left_color=6366f1&right_color=8b5cf6" />
-</p>
-
 ### 📫 Contato
 - LinkedIn: [linkedin.com/in/kayo-lage-00a103237](https://www.linkedin.com/in/kayo-lage-00a103237/)
 - E-mail: melokayo2208@gmail.com

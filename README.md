@@ -43,10 +43,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KayoLage&theme=dark&hide_border=true&background=0d1117&stroke=8b5cf6&ring=6366f1&fire=8b5cf6" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KayoLage&theme=darkhub&no-frame=true&column=4&margin-w=10&margin-h=10" />
 </p>
 

@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KayoLage&color=8b5cf6&style=flat&label=Visualiza%C3%A7%C3%B5es" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KayoLage.KayoLage&left_color=6366f1&right_color=8b5cf6" />
 </p>
 
 ### 📫 Contato

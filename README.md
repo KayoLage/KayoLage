@@ -38,8 +38,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KayoLage&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=6366f1&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayoLage&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats-jet-chi-96.vercel.app/api?username=KayoLage&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=6366f1&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats-jet-chi-96.vercel.app/api/top-langs/?username=KayoLage&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" />
 </p>
 
 <p align="center">
